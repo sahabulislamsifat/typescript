@@ -1,0 +1,12 @@
+* {
+  margin: 20;
+  padding: 20;
+  box-sizing: border-box;
+  background-color: gainsboro;
+}
+.user-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
